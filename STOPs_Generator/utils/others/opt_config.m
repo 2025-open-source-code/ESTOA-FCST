@@ -1,6 +1,3 @@
-% Author: Xiaoming Xue
-% Email: xminghsueh@gmail.com
-%
 % ------------
 % Description:
 % ------------
@@ -22,11 +19,6 @@
 % lb_image--->the lower bound of the image in decison space
 % ub_image--->the upper bound of the image in decison space
 %
-% ------------
-% Reference:
-% ------------
-% X. Xue, Y. Hu, C. Yang, et al. “How to Exploit Experience? Revisiting Evolutionary
-% Sequential Transfer Optimization: Part A", Submitted for Peer Review.
 
 function [target_opt,source_opt,lb_image,ub_image] = opt_config(xi,num_tasks,d,sim_distribution)
 source_opt = zeros(num_tasks,d);
