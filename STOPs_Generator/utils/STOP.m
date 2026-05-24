@@ -1,6 +1,3 @@
-% Author: Xiaoming Xue
-% Email: xminghsueh@gmail.com
-%
 % ------------
 % Description:
 % ------------
@@ -9,11 +6,6 @@
 % 2. transfer scenario; 3. the parameter that determines optimum coverage;
 % 4. similarity distribution; 5. problem dimension; 6. the number of source tasks.
 %
-% ------------
-% Reference:
-% ------------
-% X. Xue, Y. Hu, C. Yang, et al. “How to Exploit Experience? Revisiting Evolutionary
-% Sequential Transfer Optimization: Part A", Submitted for Peer Review.
 
 classdef STOP
 
