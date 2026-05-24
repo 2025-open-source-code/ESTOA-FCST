@@ -1,17 +1,9 @@
-% Author: Xiaoming Xue
-% Email: xminghsueh@gmail.com
-%
 % ------------
 % Description:
 % ------------
 % This file is the script of generating the 12 benchmark problems developed
 % in the following paper.
 %
-% ------------
-% Reference:
-% ------------
-% X. Xue, Y. Hu, C. Yang, et al. ¡°How to Exploit Experience? Revisiting Evolutionary
-% Sequential Transfer Optimization: Part A", Submitted for Peer Review.
 
 clc,clear
 % rng default
