@@ -1,6 +1,3 @@
-% Author: Xiaoming Xue
-% Email: xminghsueh@gmail.com
-%
 % ------------
 % Description:
 % ------------
@@ -19,12 +16,6 @@
 % ------------
 % solutions--->solutions for the 1st generation to the last generation
 % fitnesses---->fitness values of the solutions 
-%
-% ------------
-% Reference:
-% ------------
-% X. Xue, Y. Hu, C. Yang, et al. “How to Exploit Experience? Revisiting Evolutionary
-% Sequential Transfer Optimization: Part A", Submitted for Peer Review.
 
 function [solutions,fitnesses] = evolutionary_search(problem,popsize,FEsMax,optimizer)
 
